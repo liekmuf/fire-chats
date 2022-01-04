@@ -1,0 +1,63 @@
+.profile {
+    min-height: 95vh;
+}
+
+.container {
+    margin-top: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin-bottom: 10px;
+}
+
+.form__wrapper {
+    border: rosybrown 1px solid;
+    border-radius: 3px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+    width: 100%;
+}
+
+.wrapper {
+    margin-top: 16px;
+    display: flex;
+    justify-content: center;
+}
+
+.avatar {
+    width: 4.5em;
+    height: 4.5em;
+    border-radius: 2.25em;
+    margin-right: 16px;
+}
+
+.name {
+    font-size: 1.5em;
+}
+
+.email {
+    color: #AAA;
+    font-size: 0.8em;
+}
+
+.signout {
+    width: 90%;
+    max-width: 300px;
+    position: absolute;
+    bottom: 1em;
+    right: 50%;
+    transform: translateX(50%);
+}
+
+.newchat {
+    margin-top: 16px;
+    width: 90%;
+    max-width: 300px;
+}
+
+.newchat:disabled {
+    opacity: 70%;
+}

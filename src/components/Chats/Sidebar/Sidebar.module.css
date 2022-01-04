@@ -1,0 +1,27 @@
+.sidebar {
+    background: #2E2300;
+    color: white;
+    width: 24rem;
+}
+
+.hiden {
+    position: absolute;
+    transform: translateX(-100%);
+}
+
+.mobile {
+    width: 100%;
+}
+
+.wrapper {
+    position: sticky;
+    height: 100vh;
+    overflow-y: scroll;
+    top: 0;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.wrapper::-webkit-scrollbar {
+    display: none;
+}

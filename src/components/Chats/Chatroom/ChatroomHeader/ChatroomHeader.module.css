@@ -1,0 +1,20 @@
+.header {
+    box-sizing: border-box;
+    padding: min(10px, 1em) min(4vw, 30px);
+    position: sticky;
+    height: 4em;
+    top: 0;
+    background: #2E2300;
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    z-index: 2;
+}
+
+.header__logo {
+    margin: 0 0 0 16px;
+    font-weight: 500;
+    font-size: 24px;
+    color: #fff;
+}

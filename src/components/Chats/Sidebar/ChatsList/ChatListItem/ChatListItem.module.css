@@ -1,0 +1,15 @@
+.chat {
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+}
+
+.chat:hover {
+    background: #3f3101;
+}
+
+.active,
+.active:hover {
+    background: #DB9501;
+}

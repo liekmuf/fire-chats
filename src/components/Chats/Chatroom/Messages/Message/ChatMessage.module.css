@@ -1,0 +1,69 @@
+.message {
+    position: relative;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    margin: 8px;
+}
+
+.avatar {
+    vertical-align: bottom;
+    width: 3em;
+    height: 3em;
+    border-radius: 1.5em;
+    margin-right: 5px;
+}
+
+.wrapper {
+    text-align: start;
+    color: white;
+    background: #DB9501;
+    padding: 1px 10px 5px 12px;
+    border-radius: 8px;
+    max-width: 60%;
+    word-break: keep-all;
+    overflow-wrap: break-word;
+}
+
+.info {
+    padding-top: 3px;
+    max-width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.text {
+    max-width: calc(100% - 25px);
+    font-family: "Lato" sans-serif;
+    margin-right: 5px;
+    font-weight: 300;
+    word-break: keep-all;
+    overflow-wrap: break-word;
+}
+
+.time {
+    display: inline;
+    text-align: right;
+    font-size: 9px;
+    color: #222;
+}
+
+.username {
+    padding-top: 5px;
+    font-weight: 600;
+    color: #DB9501;
+}
+
+.recieved {
+    justify-content: flex-start;
+}
+
+.recieved .wrapper {
+    background: #2E2300;
+}
+
+.recieved .time {
+    position: relative;
+    color: #888;
+}
