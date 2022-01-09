@@ -1,7 +1,7 @@
 import CreateAccount from "./CreateAccount"
 import SignIn from "./SignIn"
-import { useState } from "react"
-
+import { useState, useContext } from "react"
+import { DeviceContext } from "../../context/DeviceContext"
 
 const Auth = () => {
     const [isSignIn, setIsSignIn] = useState(false)

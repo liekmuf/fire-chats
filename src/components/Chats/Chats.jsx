@@ -1,7 +1,6 @@
-import { useState } from "react"
+import { useState, useContext } from "react"
 import ChatRoom from "./Chatroom/Chatroom"
 import Sidebar from "./Sidebar/Sidebar"
-import { useContext } from "react/cjs/react.development"
 import { DeviceContext } from "../../context/DeviceContext"
 
 const Chats = () => {
