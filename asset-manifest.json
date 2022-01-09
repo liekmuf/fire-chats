@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/fireChats/static/css/main.c305ae20.chunk.css",
-    "main.js": "/fireChats/static/js/main.a0957eb0.chunk.js",
-    "main.js.map": "/fireChats/static/js/main.a0957eb0.chunk.js.map",
-    "runtime-main.js": "/fireChats/static/js/runtime-main.88351537.js",
-    "runtime-main.js.map": "/fireChats/static/js/runtime-main.88351537.js.map",
-    "static/js/2.b62f7404.chunk.js": "/fireChats/static/js/2.b62f7404.chunk.js",
-    "static/js/2.b62f7404.chunk.js.map": "/fireChats/static/js/2.b62f7404.chunk.js.map",
-    "index.html": "/fireChats/index.html",
-    "static/css/main.c305ae20.chunk.css.map": "/fireChats/static/css/main.c305ae20.chunk.css.map",
-    "static/js/2.b62f7404.chunk.js.LICENSE.txt": "/fireChats/static/js/2.b62f7404.chunk.js.LICENSE.txt",
-    "static/media/sendicon.12607619.svg": "/fireChats/static/media/sendicon.12607619.svg"
+    "main.css": "/fire-chats/static/css/main.c305ae20.chunk.css",
+    "main.js": "/fire-chats/static/js/main.a0957eb0.chunk.js",
+    "main.js.map": "/fire-chats/static/js/main.a0957eb0.chunk.js.map",
+    "runtime-main.js": "/fire-chats/static/js/runtime-main.02c8560f.js",
+    "runtime-main.js.map": "/fire-chats/static/js/runtime-main.02c8560f.js.map",
+    "static/js/2.134ccfc3.chunk.js": "/fire-chats/static/js/2.134ccfc3.chunk.js",
+    "static/js/2.134ccfc3.chunk.js.map": "/fire-chats/static/js/2.134ccfc3.chunk.js.map",
+    "index.html": "/fire-chats/index.html",
+    "static/css/main.c305ae20.chunk.css.map": "/fire-chats/static/css/main.c305ae20.chunk.css.map",
+    "static/js/2.134ccfc3.chunk.js.LICENSE.txt": "/fire-chats/static/js/2.134ccfc3.chunk.js.LICENSE.txt",
+    "static/media/sendicon.12607619.svg": "/fire-chats/static/media/sendicon.12607619.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.88351537.js",
-    "static/js/2.b62f7404.chunk.js",
+    "static/js/runtime-main.02c8560f.js",
+    "static/js/2.134ccfc3.chunk.js",
     "static/css/main.c305ae20.chunk.css",
     "static/js/main.a0957eb0.chunk.js"
   ]
