@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/fireChats/static/css/main.1916992a.chunk.css",
-    "main.js": "/fireChats/static/js/main.5560eed7.chunk.js",
-    "main.js.map": "/fireChats/static/js/main.5560eed7.chunk.js.map",
-    "runtime-main.js": "/fireChats/static/js/runtime-main.699a9e0f.js",
-    "runtime-main.js.map": "/fireChats/static/js/runtime-main.699a9e0f.js.map",
-    "static/js/2.84600d64.chunk.js": "/fireChats/static/js/2.84600d64.chunk.js",
-    "static/js/2.84600d64.chunk.js.map": "/fireChats/static/js/2.84600d64.chunk.js.map",
+    "main.css": "/fireChats/static/css/main.c305ae20.chunk.css",
+    "main.js": "/fireChats/static/js/main.a0957eb0.chunk.js",
+    "main.js.map": "/fireChats/static/js/main.a0957eb0.chunk.js.map",
+    "runtime-main.js": "/fireChats/static/js/runtime-main.88351537.js",
+    "runtime-main.js.map": "/fireChats/static/js/runtime-main.88351537.js.map",
+    "static/js/2.b62f7404.chunk.js": "/fireChats/static/js/2.b62f7404.chunk.js",
+    "static/js/2.b62f7404.chunk.js.map": "/fireChats/static/js/2.b62f7404.chunk.js.map",
     "index.html": "/fireChats/index.html",
-    "static/css/main.1916992a.chunk.css.map": "/fireChats/static/css/main.1916992a.chunk.css.map",
-    "static/js/2.84600d64.chunk.js.LICENSE.txt": "/fireChats/static/js/2.84600d64.chunk.js.LICENSE.txt",
+    "static/css/main.c305ae20.chunk.css.map": "/fireChats/static/css/main.c305ae20.chunk.css.map",
+    "static/js/2.b62f7404.chunk.js.LICENSE.txt": "/fireChats/static/js/2.b62f7404.chunk.js.LICENSE.txt",
     "static/media/sendicon.12607619.svg": "/fireChats/static/media/sendicon.12607619.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.699a9e0f.js",
-    "static/js/2.84600d64.chunk.js",
-    "static/css/main.1916992a.chunk.css",
-    "static/js/main.5560eed7.chunk.js"
+    "static/js/runtime-main.88351537.js",
+    "static/js/2.b62f7404.chunk.js",
+    "static/css/main.c305ae20.chunk.css",
+    "static/js/main.a0957eb0.chunk.js"
   ]
 }
