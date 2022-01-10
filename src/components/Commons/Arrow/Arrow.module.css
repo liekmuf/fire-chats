@@ -5,7 +5,6 @@
     z-index: 10;
     height: 32px;
     width: 24px;
-    opacity: 70%;
     transition: .1s opacity ease-in;
     cursor: pointer;
 }
@@ -28,8 +27,4 @@
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
-}
-
-.arrow:hover {
-    opacity: 100%;
 }

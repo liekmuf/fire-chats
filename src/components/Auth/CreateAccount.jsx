@@ -80,13 +80,13 @@ const CreateAccount = ({ signIn }) => {
                 <div className={styles.caption}>Already registered <span className={styles.link}
                     onClick={signIn}>Sign in</span></div>
 
-                <button className="button"
+                <button className={styles.button}
                     disabled={!inputsValid}
                     onClick={onSubmit}>Create account</button>
                 <div className={styles.error}>{errorMessage}</div>
 
             </form>
-            <button className="button"
+            <button className={styles.button}
                 onClick={signWithGoogle}>Continue with Google</button>
         </div>
     </div>

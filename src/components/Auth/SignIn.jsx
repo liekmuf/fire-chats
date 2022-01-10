@@ -52,7 +52,7 @@ const SignIn = ({ createAccount }) => {
                     <span className={styles.link} onClick={createAccount}>Create Account</span>
                 </div>
 
-                <button className="button"
+                <button className={styles.button}
                     disabled={!inputsValid}
                     onClick={onSubmit}>Sign in</button>
                 <div className={styles.error}>
@@ -60,7 +60,7 @@ const SignIn = ({ createAccount }) => {
                 </div>
             </form>
 
-            <button className="button"
+            <button className={styles.button}
                 onClick={signWithGoogle}>Continue with Google</button>
         </div>
     </div>

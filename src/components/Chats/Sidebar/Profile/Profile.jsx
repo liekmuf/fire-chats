@@ -1,5 +1,5 @@
 import styles from "./Profile.module.css"
-import { useState } from "react/cjs/react.development"
+import { useState } from "react"
 import Arrow from "../../../Commons/Arrow/Arrow"
 import { useInput } from "../../../../hooks/useInput"
 import { getCurrentUserInfo, signOut } from "../../../../firebase/auth"
@@ -47,16 +47,16 @@ const Profile = ({ onChatList }) => {
                     ? <form className={styles.form__wrapper}>
                         <input type="text"
                             placeholder="Enter a chat name"
-                            className="input"
+                            className={styles.input}
                             onChange={chatName.onChange}
                             value={chatName.value}
                         />
-                        <button className={`button ${styles.newchat}`}
+                        <button className={`${styles.button} ${styles.newchat}`}
                             onClick={onSave}
                             disabled={!isValidInput}> Save</button>
                     </form>
-                    : <button className={`button ${styles.newchat}`} onClick={onNewChat}>+New Chat</button>}
-                <button className={`button ${styles.signout}`} onClick={signOut}>Sign out</button>
+                    : <button className={`${styles.button} ${styles.newchat}`} onClick={onNewChat}>+New Chat</button>}
+                <button className={`${styles.button} ${styles.signout}`} onClick={signOut}>Sign out</button>
             </div>
         </div>
     </div >

@@ -1,4 +1,4 @@
-import { useState, useContext } from "react/cjs/react.development"
+import { useState, useContext } from "react"
 import { DeviceContext } from "../../../context/DeviceContext"
 import ChatsList from "./ChatsList/ChatsList"
 import Profile from "./Profile/Profile"
